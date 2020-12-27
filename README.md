@@ -2,7 +2,7 @@
 A script to convert MS Office `PPT/PPTX` files to `PDF files` and then `merge` all the PDF files to a single PDF file.
 
 ## Purpose
-This script is intended to help students to convert multiple PPTs into PDFs and then merge all of them into single PDF file. This will also help the Linux users to view PPTs file in Linux.
+This script is intended to help students to convert multiple PPTs into PDFs and then merge all of them into single PDF file. This will also help the Linux users to view PPTs files in Linux.
 
 ## Dependencies
 - Microsoft Windows 7 or higher
